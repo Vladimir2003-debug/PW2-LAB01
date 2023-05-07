@@ -7,7 +7,7 @@ public class Main {
         /*
          * Mensaje en java
          */
-        System.out.println("Hola mundo");     
+        System.out.println("Bienvenido al curso");     
 
     }   
    
