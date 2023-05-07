@@ -85,6 +85,14 @@
 - Cree una cuenta de usuario en GitHub usando su correo institucional.
 [opcional por ahora] Configure su cuenta de estudiante (https://education.github.com/pack).
 
+### Solucion
+
+- creacion de la cuenta y el repositorio
+
+<img src="img/FirstCommitCreateMain.jpg">
+<br>
+
+
 ### EJERCICIO 2
 
 - Cree un nuevo proyecto personal y desarrolle el ejercicio resuelto en clase. Haga 3 commits como mínimo y muéstrelos. Commit para "¡Hola mundo!", otro para "Bienvenida al curso" y otro para imprimir su nombre.
@@ -115,3 +123,24 @@
     - 4to commit - Uniendo rama "ramma-mul" al "main" para obtener metodo mul().
     - 5to commit - Uniendo rama "ramma-div" al "main" para obtener metodo div().
     - 6to commit - Uniendo rama "ramma-mod" al "main" para obtener metodo mod().
+
+## REFERENCIAS
+- https://git-scm.com/book/es/v2
+- https://guides.github.com/
+- https://www.w3schools.com/java/default.asp
+
+- Nano vs. Emacs vs. Vim (Editor Wars!) - https://www.linuxtrainingacademy.com/nano-emacs-vim/
+- Emacs vs Vim - https://www.linuxteaching.com/article/emacs_vs_vim
+- Vim or Emacs? The Debate is over… - https://cmd.com/blog/vim-or-emacs-the-debate-is-over/
+- Por qué un editor de texto de hace 40 años machaca al "todopoderoso" Atom - https://www.xataka.com/aplicaciones/por-que-un-editor-de-texto-de-hace-40-anos-le-da-sopas-con-ondas-al-todopoderoso-atom
+
+- Tutorial de Vim - http://www.truth.sk/vim/vimbook-OPL.pdf
+- Teclado en Vim - http://www.viemu.com/vi-vim-cheat-sheet.gif
+- Cómo Configurar VIM como VS Code - https://www.youtube.com/watch?v=XgQFzi3VkC8
+
+- Empezando el Curso de Java - https://www.youtube.com/playlist?list=PLw8RQJQ8K1yQDqPyDRzt-h8YlBj96OwMP
+- The Java® Language Specification Java SE 11 Edition - https://docs.oracle.com/javase/specs/jls/se11/html/index.html
+- The Java™ Tutorials - https://docs.oracle.com/javase/tutorial/
+- Java Course - http://www.vias.org/javacourse/wrapnt4F38D8_object_oriented_programming.html
+
+#
