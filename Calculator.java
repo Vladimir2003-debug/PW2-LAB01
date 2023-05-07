@@ -2,6 +2,7 @@
  * Calculadora con metodos de clase
  */
 public class Calculator {
+<<<<<<< HEAD
     
     /**
      * Metodo que suma dos numeros enteros
@@ -30,5 +31,15 @@ public class Calculator {
      */
     public static int mul(int a, int b) {
         return a * b;
+=======
+    /**
+     * Metodo que divide un numero y retorna un entero
+     * @param a : Dividendo
+     * @param b : Divisor
+     * @return : Cociente(entero)
+     */
+    public static int div(int a, int b) {
+        return a/b;
+>>>>>>> ramma-div
     }
 }
