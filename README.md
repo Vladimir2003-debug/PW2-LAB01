@@ -221,10 +221,12 @@
         - Aceptar con gracia la crítica constructiva
         - Centrarse en lo que es mejor para la comunidad.
         - Mostrar empatía hacia otros miembros de la comunidad.
+    - Cabe resaltar que se pueden añadir tus propios codigos de conducta
 - ¿Qué son los entándares de codificación?
     - Los estandares de codificacion son reglas y guias que permiten un facil entendimiento entre codigo y programadores estos varian de acuerdo a cada lenguaje.
 
 ## REFERENCIAS
+- https://docs.github.com/es/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project
 - https://git-scm.com/book/es/v2
 - https://guides.github.com/
 - https://www.w3schools.com/java/default.asp
