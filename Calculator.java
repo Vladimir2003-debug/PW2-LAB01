@@ -12,4 +12,14 @@ public class Calculator {
     public static int add(int a,int b) {
         return a + b; 
     }
+    /**
+     * Metodo que resta dos numeros
+     * @param a : Minuendo
+     * @param b : Sustraendo
+     * @return Diferencia
+     */
+    public static int sub(int a ,int b) {
+        return a-b;
+    }
+
 }
