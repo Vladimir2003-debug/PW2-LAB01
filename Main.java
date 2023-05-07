@@ -7,7 +7,7 @@ public class Main {
         /*
          * Mensaje en java
          */
-        System.out.println("Bienvenido al curso");     
+        System.out.println("Vladimir Arturo Sulla Quispe");     
 
     }   
    
