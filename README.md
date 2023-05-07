@@ -208,8 +208,21 @@
     ```
 - Luego se van uniendose a la ramma principal main
 
+<img src="img/Commits.jpg">
 
+## CUESTIONARIO
+- ¿Por qué Git y GitHub son herramientas importantes para el curso?
+    - Por que son herramientas que seran usadas para la presentacion de los laboratorios.
 
+- ¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema de Control de Versiones?
+    - Algunas conductas eticas de acuerdo al codigo de conducta de github son las siguientes
+        - Usar un lenguaje acogedor e inclusivo
+        - Ser respetuoso con los diferentes puntos de vista y experiencias.
+        - Aceptar con gracia la crítica constructiva
+        - Centrarse en lo que es mejor para la comunidad.
+        - Mostrar empatía hacia otros miembros de la comunidad.
+- ¿Qué son los entándares de codificación?
+    - Los estandares de codificacion son reglas y guias que permiten un facil entendimiento entre codigo y programadores estos varian de acuerdo a cada lenguaje.
 
 ## REFERENCIAS
 - https://git-scm.com/book/es/v2
