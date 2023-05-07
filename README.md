@@ -89,9 +89,9 @@
 
 - creacion de la cuenta y el repositorio
 
-<img src="img/FirstCommitCreateMain.jpg">
-<br>
+<img src="img/CuentaCreada.jpg">
 
+<br>
 
 ### EJERCICIO 2
 
@@ -123,6 +123,93 @@
     - 4to commit - Uniendo rama "ramma-mul" al "main" para obtener metodo mul().
     - 5to commit - Uniendo rama "ramma-div" al "main" para obtener metodo div().
     - 6to commit - Uniendo rama "ramma-mod" al "main" para obtener metodo mod().
+
+### Solucion
+
+- Se crean los metodos en las diferentes ramas
+
+    - ramma-add 
+
+    ```java
+    public class Calculator {
+        /**
+        * Metodo que suma dos numeros enteros
+        * @param a : primer sumando
+        * @param b : segundo sumando
+        * @return suma
+        */
+        public static int add(int a,int b) {
+            return a + b; 
+        }
+    }
+
+    ```
+
+    - ramma-sub
+
+    ```java
+    public class Calculator {
+        /**
+        * Metodo que resta dos numeros
+        * @param a : Minuendo
+        * @param b : Sustraendo
+        * @return Diferencia
+        */
+        public static int sub(int a ,int b) {
+            return a-b;
+        }
+    }
+
+    ```
+
+    - ramma-mul
+    ```java
+    public class Calculator {
+        /**
+         * Metodo que multiplica dos numeros
+         * @param a : factor
+         * @param b : factor
+         * @return El producto de los numeros
+         */
+        public static int mul(int a, int b) {
+            return a * b;
+        }
+    }
+    ``` 
+
+    - ramma-div
+    ```java
+    public class Calculator {
+        /**
+        * Metodo que divide un numero y retorna un entero
+        * @param a : Dividendo
+        * @param b : Divisor
+        * @return : Cociente(entero)
+        */
+        public static int div(int a, int b) {
+            return a/b;
+        }
+    }
+    ```
+
+    - ramma-mod
+    ```java
+    public class Calculator {
+        /**
+        * Metodo que saca el modulo de un numero
+        * @param a : Dividendo
+        * @param a : Divisor
+        * @return Residuo
+        */
+        public static int mod(int a, int b) {
+        return a % b; 
+        }
+    }
+    ```
+- Luego se van uniendose a la ramma principal main
+
+
+
 
 ## REFERENCIAS
 - https://git-scm.com/book/es/v2
